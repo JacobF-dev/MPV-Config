@@ -4,8 +4,7 @@ My personal MPV config geared towards moderately powered GPUs (>≈ GTX 1060), w
 A second config file (lightened, make sure to rename it to just mpv.conf) geared towards low performance laptops/old desktops. (Made for a 2013 i5)
 IF your computer struggles with this, using just profile=gpu-hq or even nothing would be the best course of action.
 
-Since the script uses Direct3D 11 as a hardware decoder, this won't work on anything older than Windows 8.
-To enable accelerated output on any other OS, simply change hwdec=d3d11va to hwdec=auto-safe.
+Since the script uses a hardware decoder, this won't work on systems with outdated/unstable/nonexistant video drivers.
 If any issues occur during playback, remove the line entirely to disable it.
 
 A word on interpolation:
