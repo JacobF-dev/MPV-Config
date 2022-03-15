@@ -1,7 +1,7 @@
 # MPV-Config-Windows
 My personal MPV config geared towards moderately powered GPUs (>≈ GTX 1060), while still maintaining a simple-ish configuration.
 
-A second config file (lightened) geared towards low performance laptops/old desktops. (Made for a 2013 i5)
+A second config file (lightened, make sure to rename it to just mpv.conf) geared towards low performance laptops/old desktops. (Made for a 2013 i5)
 IF your computer struggles with this, using just profile=gpu-hq or even nothing would be the best course of action.
 
 Since the script uses Direct3D 11 as a hardware decoder, this won't work on anything older than Windows 8.
