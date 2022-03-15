@@ -1,4 +1,4 @@
-# MPV-Config-Windows
+# Personal MPV Config
 My personal MPV config geared towards moderately powered GPUs (>≈ GTX 1060), while still maintaining a simple-ish configuration.
 
 A second config file (lightened, make sure to rename it to just mpv.conf) geared towards low performance laptops/old desktops. (Made for a 2013 i5)
